@@ -2,3 +2,5 @@ data
 saved
 log
 checkpoints
+results kopie
+results/model-epoch-*
